@@ -1,0 +1,13 @@
+{
+  "error/404": {
+    "config": {
+      "title": "Page not found!",
+      "title_overwrite": true,
+      "title_prefix": "",
+      "title_suffix": ""
+    },
+    "content": {
+      "error": "404 error: page not found."
+    }
+  }
+}
