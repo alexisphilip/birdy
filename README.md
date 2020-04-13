@@ -18,12 +18,14 @@ It is lightweight, easy to use, and full of functionalities.
 
 Get the latest version of Birdy from [GitHub](https://github.com/alexis-philip/birdy) :octopus:
 
-[Start the tutorial](https://birdy.alexisphilip.fr/docs/#/architecture) from documentation and fly like a bird :bird:
+[Start the tutorial](https://birdy.alexisphilip.fr/#/tutorial/architecture) from documentation and fly like a bird :bird:
 
 ## Resources
 
-[Documentation](https://birdy.alexisphilip.fr/docs) :books:
+[Documentation](https://birdy.alexisphilip.fr/#/) :books:
 
-## Credits
+## Author
 
-Alexis Philip ([Website](https://alexisphilip.fr), [GitHub](https://github.com/alexis-philip)).
+Alexis Philip ([Website](https://alexisphilip.fr),
+[GitHub](https://github.com/alexis-philip),
+[LinkedIn](https://www.linkedin.com/in/alexis-philip-019955176)). 
